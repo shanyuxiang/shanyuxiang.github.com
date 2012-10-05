@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  X-Factor of Freedom
+title:  Freedom Syx
 tagline:
 ---
 {% include themes/effector/index.html %}
