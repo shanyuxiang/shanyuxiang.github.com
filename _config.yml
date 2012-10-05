@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : FreeX 
+title : Freedom 
 tagline: test1 
 author :
-  name : shihongzhi 
-  email : shi65881583@gmail.com 
-  github : shihongzhi 
-  twitter : shihongzhi 
+  name : shanyuxiang 
+  email : shanyuiang@gmail.com 
+  github : shanyuiang 
+  twitter : shanyuiang 
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
